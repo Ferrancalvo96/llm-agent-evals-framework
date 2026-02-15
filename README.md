@@ -1,5 +1,7 @@
 # LLM Agent Evaluation Framework
 
+![CI](https://github.com/FerranCalvo96/llm-agent-evals-framework/actions/workflows/tests.yml/badge.svg)
+
 Production-oriented framework for testing, evaluating, and monitoring LLM-powered agents.
 
 ---
